@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Harsh, a web developer based in India.
+
 I build scalable RESTful APIs, microservices, and real-time systems, with a strong emphasis on debugging and system design fundamentals.
 
 I am developing a Video Streaming Platform, a scalable system designed for adaptive HLS streaming. My recent work involves implementing background job processing with BullMQ and Redis, containerizing services with 
