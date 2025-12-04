@@ -24,7 +24,7 @@ Tools and tech I use-
 Core Stack: JavaScript, Node.js, Express.js, MongoDB.
 Tools: Docker, Linux, FFmpeg, Cloudflare R2, Git, Postman
 
-I have got a bunch of pinned projects but my favourite is Retro URL (https://github.com/harshsinghdev-11/urlcheck) (where I reduced API latency by 99.93% using Bloom Filters).
+I have got a bunch of pinned projects but my favourite is Retro URL (https://github.com/harshsinghdev-11/url_check) (where I reduced API latency by 99.93% using Bloom Filters).
 
 I maintained 35 repos that include both pubic and private.
 
