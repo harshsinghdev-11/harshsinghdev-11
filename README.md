@@ -1,35 +1,39 @@
-## Hi there 👋
+# Hi there , I'm Harsh
 
-<!--
-**harshsinghdev-11/harshsinghdev-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student (2023–2027)** and **Web Developer** based in India.  
+I build scalable **RESTful APIs, microservices, and real-time systems**, with a strong emphasis on debugging and system design fundamentals.  
 
-Here are some ideas to get you started:
+I enjoy building systems from scratch—whether it's a **streaming platform** or a **custom neural network**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Harsh, a web developer based in India.
+---
 
-I build scalable RESTful APIs, microservices, and real-time systems, with a strong emphasis on debugging and system design fundamentals.
+## 🛠️ Tools & Tech I Use
 
-I am developing a Video Streaming Platform, a scalable system designed for adaptive HLS streaming. My recent work involves implementing background job processing with BullMQ and Redis, containerizing services with 
-Docker, and optimizing content delivery using Cloudflare R2.
+**Core Stack:** JavaScript, Node.js, Express.js, Python, C++ , MongoDB  
+**Systems & Backend:** Docker, Linux, Redis (Pub/Sub), WebSockets, PostgreSQL, SQL  
+**Advanced:** Genetic Algorithms, Neural Networks, FFmpeg, Cloudflare R2  
 
-Tools and tech I use-
-Core Stack: JavaScript, Node.js, Express.js, MongoDB.
-Tools: Docker, Linux, FFmpeg, Cloudflare R2, Git, Postman
+---
 
-I have got a bunch of pinned projects but my favourite is Retro URL (https://github.com/harshsinghdev-11/url_check) (where I reduced API latency by 99.93% using Bloom Filters).
+##  Key Projects
 
-I maintained 35 repos that include both pubic and private.
+- **Retro URL (Safety Checker):** Optimized API latency by **99.99% (233ms → 0.03ms)** using Bloom Filters to eliminate redundant database reads.  
+- **Video Streaming Platform:** Developing a scalable system for adaptive HLS streaming using **BullMQ, Redis, and Docker**.  
+- **Autonomous Driving Agent:** Built a self-driving simulation from scratch using **Neuroevolution and genetic algorithms** (no high-level ML frameworks used).  
+- **Convex Hull Microservice:** Implemented the **Graham Scan algorithm ($O(n \log n)$)** with a real-time visualization pipeline via **Redis Pub/Sub**.
 
-Fun Facts:
-Tea or coffee fuelled,
-Money Heist is my favourite show.
-##Hobby - Flutist
+---
+
+##  Achievements
+
+- Semi-Finalist at **Hack2Hustle Hackathon** (Top 70+ teams)  
+- Web Development Team Member at the **Institution Innovation Council (IIC)**  
+- Maintainer of **35+ public and private repositories**
+
+---
+
+## 🎉 Fun Facts
+
+- ☕ Tea or coffee fueled  
+- 🎭 *Money Heist* is my favorite show  
+- 🎶 Hobby: Flutist
