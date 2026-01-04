@@ -25,8 +25,6 @@ I enjoy building systems from scratch—whether it's a **streaming platform** or
 - Web Development Team Member at the **Institution Innovation Council (IIC)**  
 - Maintainer of **35+ public and private repositories**
 
----
-
 ## 🎉 Fun Facts
 
 - ☕ Tea or coffee fueled  
