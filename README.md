@@ -1,32 +1,36 @@
-# Hi there 👋, I'm Harsh
+# Hi there 👋, I'm Harsh Singh
 
-I'm a **Computer Science student (2023–2027)** and **Web Developer** based in India.  
-I build scalable **RESTful APIs, microservices, and real-time systems**, with a strong emphasis on debugging and system design fundamentals.  
+I am a **Full-Stack Developer** and **Computer Science student (2023–2027)** specializing in **Backend Infrastructure, AI Agents, and Autonomous Systems**. [cite_start]I thrive on building systems from scratch—moving beyond library usage to implement core logic like custom neural networks and probabilistic data structures[cite: 72, 78].
 
-I enjoy building systems from scratch—whether it's a **streaming platform** or a **custom neural network**.
+## 🛠️ Tools & Tech Stack
 
-## 🛠️ Tools & Tech I Use
+- **Languages:** JavaScript (ES6+), SQL, C++, Python
+- **Backend & Systems:** Node.js, Express.js, REST APIs, WebSockets, Linux
+- [cite_start]**Database:** MongoDB [cite: 67]
+- [cite_start]**AI & Machine Learning:** TensorFlow.js, Neural Networks, Genetic Algorithms, Autonomous AI Agents, MCP servers [cite: 68]
+- [cite_start]**Tools:** Postman, Git, GitHub, FFmpeg, ImageKit [cite: 68, 85]
 
-**Core Stack:** JavaScript, Node.js, Express.js, Python, C++ , MongoDB  
-**Systems & Backend:** Docker, Linux, Redis (Pub/Sub), WebSockets, PostgreSQL, SQL  
-**Advanced:** Genetic Algorithms, Neural Networks, FFmpeg, Cloudflare R2  
+## 🚀 Featured Projects
 
-##  Key Projects
+### [Hybrid AI Malicious URL Detection System](https://github.com/harshsinghdev-11/url_check)
+* [cite_start]**Performance:** Achieved **~0.05 ms** lookup latency for 650K+ signatures[cite: 73].
+* [cite_start]**Tech:** Engineered a triple-layer pipeline using **In-memory Bloom Filters**, MongoDB, and an **ONNX-based ML inference engine** directly in Node.js[cite: 72, 74].
 
-- **Retro URL (Safety Checker):** Optimized API latency by **99.99% (233ms → 0.03ms)** using Bloom Filters to eliminate redundant database reads.  
-- **Video Streaming Platform:** Developing a scalable system for adaptive HLS streaming using **BullMQ, Redis, and Docker**.  
-- **Autonomous Driving Agent:** Built a self-driving simulation from scratch using **Neuroevolution and genetic algorithms** (no high-level ML frameworks used).  
-- **Convex Hull Microservice:** Implemented the **Graham Scan algorithm ($O(n \log n)$)** with a real-time visualization pipeline via **Redis Pub/Sub**.
+### [Autonomous Self-Driving Agent](https://github.com/harshsinghdev-11/self_learning_car)
+* [cite_start]**Neuroevolution:** Built a reinforcement learning environment from scratch in vanilla JS without high-level ML libraries[cite: 78].
+* [cite_start]**Optimization:** Designed a custom **5-12-4 feedforward neural network** optimized via a **1+ genetic algorithm** using Gaussian mutation[cite: 79, 80].
 
+### [Short Video Streaming Platform](https://github.com/harshsinghdev-11/stream_video)
+* [cite_start]**Scalability:** Implemented secure NextAuth.js authentication and scalable API routes for metadata management[cite: 83, 84].
+* [cite_start]**UX:** Integrated **ImageKit API** for automated thumbnail generation and optimized video transformations.
 
-##  Achievements
+## 🏆 Achievements & Involvement
 
-- Semi-Finalist at **Hack2Hustle Hackathon** (Top 70+ teams)  
-- Web Development Team Member at the **Institution Innovation Council (IIC)**  
-- Maintainer of **35+ public and private repositories**
+- [cite_start]**Hack2Hustle Semi-Finalist:** Ranked in the top stage among 70+ competing teams[cite: 90, 92].
+- **IIC College Society:** Web Development Team Member at the Institution's Innovation Council.
+- **Smart India Hackathon 2025:** Developed an AI decision-support system for Indian Railways train traffic controllers.
 
-## 🎉 Fun Facts
+## 🎉 Beyond the Code
 
-- ☕ Tea or coffee fueled  
-- 🎭 *Money Heist* is my favorite show  
-- 🎶 Hobby: Flutist
+- ☕ Fueled by tea or coffee.
+- 🎶 **Hobby:** Flutist.
